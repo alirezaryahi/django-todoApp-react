@@ -2,3 +2,12 @@ django==3.1.4
 pip==20.3.3
 djanforestframework==3.12.2
 django-cors-headers==3.6.0
+
+
+AND
+
+
+when use front end u must add this line in frontend folder to install package:
+
+1) pip init
+2) pip install bootstrap reactstrap
