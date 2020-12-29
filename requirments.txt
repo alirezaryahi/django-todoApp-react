@@ -1,0 +1,4 @@
+django==3.1.4
+pip==20.3.3
+djanforestframework==3.12.2
+django-cors-headers==3.6.0
